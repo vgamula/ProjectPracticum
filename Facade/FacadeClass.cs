@@ -32,6 +32,5 @@ namespace Facade
             this.hardObject2.DoAction2();
             this.hardObject3.DoAction2();
         }
-
     }
 }

@@ -39,7 +39,5 @@ namespace Flyweight
             }
             return obj;
         }
-
-
     }
 }
