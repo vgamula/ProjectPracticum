@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{CEB79233-4AAC-4800-BB39-083BCB9D47CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{6B494F4E-0BBD-4689-B88A-C920DD4A2A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CEB79233-4AAC-4800-BB39-083BCB9D47CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB79233-4AAC-4800-BB39-083BCB9D47CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB79233-4AAC-4800-BB39-083BCB9D47CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B494F4E-0BBD-4689-B88A-C920DD4A2A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B494F4E-0BBD-4689-B88A-C920DD4A2A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B494F4E-0BBD-4689-B88A-C920DD4A2A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B494F4E-0BBD-4689-B88A-C920DD4A2A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
